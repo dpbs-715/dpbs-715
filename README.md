@@ -1,16 +1,18 @@
-## Hi there 👋
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=dpbs-715" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dpbs-715&show_icons=true&hide_border=true" />
+</p>
 
-<!--
-**dpbs-715/dpbs-715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dpbs-715&hide_border=true" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dpbs-715&hide_border=true" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vue,ts,nodejs,vite,docker,flutter,java,python,kotlin" />
+</p>
