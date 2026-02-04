@@ -2,6 +2,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dpbs-715&theme=react-dark&hide_border=true&area=true" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dpbs-715/dpbs-715/output/github-snake-dark.svg" />
+</p>
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vue,js,ts,nodejs,vite,nuxt,flutter,kotlin,java,python,mysql" />
 </p>
